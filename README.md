@@ -1,0 +1,1 @@
+This project features a stylish and responsive profile card created using HTML and CSS. It is designed to present personal or professional information in a clean and modern way, suitable for portfolios, resumes, or social media links.
